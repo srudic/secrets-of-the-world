@@ -20,9 +20,9 @@ This project was created as a part of my **bachelor thesis**.
 
 The topic of this bachelor thesis is _The Development of a System for Researching World Destinations through Travelogues_.
 
-Most of the time, when people go on a trip, they study and read the reactions of people who have visited that place to know what awaits them, and not just believe in the leaflets and marketing advertisements of tourist boards and everyone else who promotes these destinations. Because of this, the idea of ​​this application is to bring world locations closer through stories, i.e. travelogues, in a true way through the experiences of others.
+Most of the time, when people go on a trip, they study and read the reactions of people who have visited that place to know it better, and not believe in the leaflets and marketing advertisements of tourist boards and anyone else who promotes these destinations. Because of this, the idea of ​​this application is to bring world locations closer through stories, i.e. travelogues, in a true way through the experience of others.
 
-The bachelor thesis can be divided into two parts, theoretical and practical part. The first part is theoretical, it describes the technologies that are used in creating the application, namely **React**, **Node.js**, **Express** and **MongoDB**.
+The bachelor thesis can be divided into two parts, theoretical and practical part. The first part is theoretical, it describes technologies that are used in creating the application, namely **React**, **Node.js**, **Express** and **MongoDB**.
 
 The second part of the undergraduate thesis describes the development of a system. The mentioned technologies were used in the development, so React was used on the client side, Node.js and Express on the server side, and MongoDB was used as a database.
 
