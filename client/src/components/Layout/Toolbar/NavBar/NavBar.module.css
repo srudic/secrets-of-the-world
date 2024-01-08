@@ -1,0 +1,15 @@
+.Line{
+    height: 5px;
+    background-color: var(--mainBlue);
+    margin-top: 0px;
+}
+
+.NavTabs{
+    margin: 0% 5%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.NavTabs a{
+    text-decoration: transparent;
+}

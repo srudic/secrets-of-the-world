@@ -1,0 +1,73 @@
+.FullStory {
+  margin: 0 10vw 10vw 10vw;
+}
+
+.Header {
+  margin: 3em 3em 1em 0em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Data {
+  display: flex;
+  flex-direction: column;
+  color: var(--mainPink);
+}
+
+.Data h4 {
+  margin: 0;
+  font-size: 1em;
+  color: var(--mainBlue);
+  padding: 0.2em 0 0.2em 0.5em;
+}
+
+.Data h1 {
+  margin: 0 0 0.3em 0;
+  font-size: 3em;
+}
+
+.Location,
+.Creator {
+  display: flex;
+  align-items: center;
+  padding-left: 0.5em;
+  margin: 0;
+}
+
+.Data h5 {
+  font-size: 1em;
+  padding-right: 1em;
+}
+
+.Report h5 {
+  text-align: center;
+}
+
+.Stars {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.5em;
+}
+
+.CoverPhoto {
+  padding: 2vh;
+  height: 500px;
+  max-width: 1000px;
+  margin-bottom: 2vw;
+}
+
+.CoverPhoto img {
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+.Text {
+  font-size: 1.3em;
+  padding: 0.5em 1em;
+}

@@ -1,0 +1,16 @@
+.DeleteBtn {
+  align-self: flex-end;
+  margin: 0em 1em 1em 1em;
+  border: 2px solid var(--mainPink);
+  padding: 0.3em 1.5em;
+  color: var(--mainPink);
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.DeleteBtn:hover {
+  color: white;
+  background-color: var(--mainPink);
+  cursor: pointer;
+}

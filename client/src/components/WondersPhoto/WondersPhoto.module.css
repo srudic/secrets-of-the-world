@@ -1,0 +1,10 @@
+.PhotoContainer {
+  margin: 0 auto;
+  background: url("../../assets/7wonders.jpg");
+  background-position: center;
+  /* background-attachment: fixed; */
+  /*Ako stavim ovo gore kako da onda bude u sredini da se lipo vidi na pocetku skrolanja*/
+  background-size: cover;
+  min-height: 500px;
+  width: 100%;
+}

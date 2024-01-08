@@ -1,0 +1,64 @@
+.Modal {
+  position: fixed;
+  z-index: 500;
+  width: 600px;
+  height: 600px;
+  box-shadow: 2px 4px 6px grey;
+  padding: 0;
+  left: calc(50% - 300px);
+  top: calc(50% - 300px);
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  background: linear-gradient(
+    45deg,
+    #405de6,
+    #5851db,
+    #833ab4,
+    #c13584,
+    #e1306c,
+    #fd1d1d
+  );
+}
+
+.RateModal {
+  position: fixed;
+  z-index: 500;
+  width: 500px;
+  height: 250px;
+  box-shadow: 2px 4px 6px gold;
+  padding: 0;
+  left: calc(50% - 250px);
+  top: calc(50% - 125px);
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  background-color: white;
+  border: 2px solid gold;
+}
+
+.DeleteModal {
+  position: fixed;
+  z-index: 500;
+  width: 500px;
+  height: 350px;
+  /* box-shadow: 2px 4px 6px rgb(158, 1, 1); */
+  padding: 0;
+  left: calc(50% - 250px);
+  top: calc(50% - 175px);
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  background-color: white;
+  /* border: 2px solid rgb(158, 1, 1); */
+}
+
+.ConfirmPublishingModal {
+  position: fixed;
+  z-index: 500;
+  width: 650px;
+  height: 350px;
+  padding: 0;
+  left: calc(50% - 325px);
+  top: calc(50% - 175px);
+  box-sizing: border-box;
+  transition: all 0.3s ease-out;
+  background-color: white;
+}

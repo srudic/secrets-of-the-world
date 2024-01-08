@@ -1,0 +1,47 @@
+.MyProfile {
+  display: flex;
+  color: var(--mainBlue);
+}
+
+.UserData {
+  background-color: rgb(195, 233, 255);
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+
+.UserData h1 {
+  color: var(--mainPink);
+}
+.UserData h3 {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+}
+
+.UserData h2 {
+  margin: 1.5em 0 0 0;
+  padding: 0;
+  color: var(--mainPink);
+}
+
+.UserData img {
+  width: 200px;
+  height: 180px;
+  border-radius: 45%;
+}
+
+.UserDetails {
+  width: 55%;
+  padding-bottom: 6em;
+}
+
+.UploadPhoto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

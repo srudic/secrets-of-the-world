@@ -1,0 +1,51 @@
+.UserDetails {
+  margin: 2em 3em;
+  display: flex;
+  flex-direction: column;
+}
+
+.Details {
+  display: flex;
+  flex-direction: column;
+  margin: 0 2em;
+  font-size: 1.2em;
+}
+
+.Details input {
+  background-color: rgb(195, 233, 255);
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  font-size: 1em;
+  padding: 0.5em;
+}
+
+.Details label {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.Details div {
+  margin-top: 2em;
+  border: 2px solid var(--mainPink);
+
+  align-self: flex-end;
+  text-align: center;
+  padding: 0.3em 1em;
+  border-radius: 5px;
+}
+
+.Details div:hover {
+  background-color: var(--mainPink);
+  color: white;
+  cursor: pointer;
+}
+
+.UserDetails h2 {
+  margin-top: 6em;
+}
+
+.Disable {
+  cursor: not-allowed;
+  background-color: green !important;
+}

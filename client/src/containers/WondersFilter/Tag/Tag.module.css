@@ -1,0 +1,20 @@
+.Tag {
+  padding: 0.5em 1em;
+  border-radius: 25px;
+  font-size: 1.1em;
+  color: var(--mainPink);
+  border: 2px solid var(--mainPink);
+  cursor: pointer;
+}
+
+.Tag:hover {
+  background-color: var(--mainPink);
+  color: white;
+  cursor: pointer;
+}
+
+.Clicked {
+  background-color: var(--mainPink);
+  transform: scale(1.1);
+  color: white;
+}

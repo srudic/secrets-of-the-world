@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+:root {
+  --mainBlue: rgba(0, 19, 77, 1);
+  --lightBlue: rgba(128, 159, 255, 1);
+  --mainPink: rgba(189, 50, 117, 1);
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  /* color: rgba(0, 19, 77, 1); */
+  color: rgba(128, 159, 255, 1);
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  /* color: rgba(0, 19, 77, 1); */
+  color: rgba(128, 159, 255, 1);
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  /* color: rgba(0, 19, 77, 1); */
+  color: rgba(128, 159, 255, 1);
+}

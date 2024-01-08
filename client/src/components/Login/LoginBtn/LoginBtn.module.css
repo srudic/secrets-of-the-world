@@ -1,0 +1,14 @@
+.LoginBtn {
+  background-color: var(--mainBlue);
+  padding: 0.5% 2%;
+  color: white;
+  border-radius: 10px;
+  align-items: center;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 6em;
+}
+
+.LoginBtn:hover {
+  background-color: var(--mainPink);
+}

@@ -1,0 +1,15 @@
+.PublishBtn {
+  width: 10%;
+  border: 2px solid var(--mainPink);
+  padding: 0.3em 1.5em;
+  color: var(--mainPink);
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.PublishBtn:hover {
+  color: white;
+  background-color: var(--mainPink);
+  cursor: pointer;
+}

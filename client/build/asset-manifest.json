@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cd3ab50.chunk.css",
+    "main.js": "/static/js/main.e9e82b02.chunk.js",
+    "main.js.map": "/static/js/main.e9e82b02.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.787fe3e6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.787fe3e6.js.map",
+    "static/css/2.74c64b29.chunk.css": "/static/css/2.74c64b29.chunk.css",
+    "static/js/2.bc6b39f2.chunk.js": "/static/js/2.bc6b39f2.chunk.js",
+    "static/js/2.bc6b39f2.chunk.js.map": "/static/js/2.bc6b39f2.chunk.js.map",
+    "static/js/3.668d31ee.chunk.js": "/static/js/3.668d31ee.chunk.js",
+    "static/js/3.668d31ee.chunk.js.map": "/static/js/3.668d31ee.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.74c64b29.chunk.css.map": "/static/css/2.74c64b29.chunk.css.map",
+    "static/css/main.5cd3ab50.chunk.css.map": "/static/css/main.5cd3ab50.chunk.css.map",
+    "static/js/2.bc6b39f2.chunk.js.LICENSE.txt": "/static/js/2.bc6b39f2.chunk.js.LICENSE.txt",
+    "static/media/WondersPhoto.module.css": "/static/media/7wonders.cc8afd99.jpg",
+    "static/media/Searching.module.css": "/static/media/naslovna slika.be78c12c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.787fe3e6.js",
+    "static/css/2.74c64b29.chunk.css",
+    "static/js/2.bc6b39f2.chunk.js",
+    "static/css/main.5cd3ab50.chunk.css",
+    "static/js/main.e9e82b02.chunk.js"
+  ]
+}

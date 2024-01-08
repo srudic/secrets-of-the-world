@@ -1,0 +1,20 @@
+.Header h1 {
+  color: var(--mainBlue);
+  font-family: "Reenie Beanie", cursive;
+  font-size: 5em;
+  margin-bottom: 0em;
+  cursor: pointer;
+}
+
+.Header h3 {
+  font-family: "Reenie Beanie", cursive;
+  color: var(--lightBlue);
+  font-size: 2em;
+  margin-top: 0em;
+  margin-left: 5%;
+  cursor: default;
+}
+
+.Header {
+  width: 80%;
+}

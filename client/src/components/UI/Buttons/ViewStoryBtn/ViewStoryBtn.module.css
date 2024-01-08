@@ -1,0 +1,16 @@
+.ViewStoryBtn {
+  align-self: flex-end;
+  margin: 1em 1em 2em 1em;
+  border: 2px solid var(--lightBlue);
+  padding: 0.5em 2.5em;
+  color: var(--lightBlue);
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.ViewStoryBtn:hover {
+  color: white;
+  background-color: var(--lightBlue);
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.Tab {
+  margin-right: 1em;
+  padding: 0.5em 1em;
+  background-color: var(--mainBlue);
+  color: white;
+  border-radius: 10px 10px 0px 0px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.Tab:hover {
+  background-color: var(--mainPink);
+}
+
+.Active {
+  background-color: var(--mainPink);
+}

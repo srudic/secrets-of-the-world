@@ -1,0 +1,44 @@
+.Rating {
+  padding: 2em 3em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Rating div {
+  margin: 1.5em 0em 1em 0em;
+}
+
+.Rating h1 {
+  font-family: "Reenie Beanie", cursive;
+  font-size: 3em;
+  margin: 0;
+  color: var(--mainBlue);
+}
+
+.Rating h2 {
+  font-family: "Reenie Beanie", cursive;
+  font-size: 2em;
+  margin: 0;
+  color: var(--mainBlue);
+}
+
+.Rating h2:hover {
+  cursor: pointer;
+  color: gold;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.Star {
+  cursor: pointer;
+}
+
+.Rating p {
+  margin: 0;
+  font-size: 0.8em;
+  color: #7a7a7a;
+}

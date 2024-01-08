@@ -1,0 +1,84 @@
+.LoginForm {
+  margin: 3em;
+}
+
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.InputFields h2 {
+  color: white;
+  margin-bottom: 2em;
+  font-size: 1.5em;
+}
+
+.InputFields {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid white;
+  border-radius: 10px;
+  padding: 1em;
+}
+
+.InputField {
+  display: flex;
+  text-align: center;
+  margin: 1em 0;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  background-color: white;
+  width: 80%;
+}
+
+.Icon {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.InputFields input {
+  font-size: 1.5em;
+  padding: 0.5em;
+  border: none;
+  background-color: white;
+}
+
+.Btn {
+  background-color: var(--mainBlue);
+  width: 80%;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  font-size: 1.5em;
+  color: white;
+  padding: 0.5em 0em;
+  text-align: center;
+  margin: 0.5em 0em;
+  cursor: pointer;
+}
+
+.Register {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 2em;
+}
+
+.Register h2 {
+  color: white;
+  font-weight: normal;
+  font-size: 1.2em;
+}
+
+.RegisterBtn {
+  background-color: var(--mainBlue);
+  color: white;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  padding: 0.1em 0.5em;
+  cursor: pointer;
+}

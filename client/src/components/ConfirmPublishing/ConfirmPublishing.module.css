@@ -1,0 +1,32 @@
+.ConfirmPublishing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3em;
+}
+
+.ConfirmPublishing h1 {
+  margin: 0.5em auto 1em auto;
+  color: var(--mainPink);
+}
+
+.ConfirmPublishing p {
+  text-align: center;
+  margin: 0;
+}
+
+.ConfirmPublishing h2 {
+  cursor: pointer;
+}
+
+.ConfirmPublishing h2:hover {
+  color: var(--mainPink);
+}
+
+.Choose {
+  width: 100%;
+  margin-top: 0.5em;
+  display: flex;
+  justify-content: space-around;
+}

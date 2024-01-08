@@ -1,0 +1,14 @@
+.RateBtn {
+  margin-right: 1em;
+  border: 1px solid gold;
+  border-radius: 5px;
+  padding: 0.1em 0.5em;
+  text-align: center;
+  color: gold;
+}
+
+.RateBtn:hover {
+  color: white;
+  background-color: gold;
+  cursor: pointer;
+}

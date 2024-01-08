@@ -1,0 +1,17 @@
+.Line{
+    height: 2px;
+    background-color: var(--lightBlue);
+}
+
+.Footer{
+    bottom: 0;
+}
+
+.Signature{
+    padding: 1% 0%;
+    font-family: 'Reenie Beanie', cursive;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+}

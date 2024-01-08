@@ -1,0 +1,70 @@
+.Deleting {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 4vw;
+}
+
+.Exclamation {
+  background-color: rgb(158, 1, 1);
+  border-radius: 50%;
+  border: 2px solid rgb(158, 1, 1);
+}
+
+.Text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Text h2 {
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+.Text h5 {
+}
+
+.Text h5 span {
+  margin-left: 3px;
+  color: rgb(102, 102, 102);
+  font-size: 1.1em;
+}
+
+.Buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 1em;
+}
+
+.NoButton {
+  border: 2px solid rgb(102, 102, 102);
+  padding: 0.3em 1em;
+  color: rgb(102, 102, 102);
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.YesButton {
+  border: 2px solid rgb(158, 1, 1);
+  padding: 0.3em 1em;
+  color: rgb(158, 1, 1);
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.NoButton:hover {
+  color: white;
+  background-color: rgb(102, 102, 102);
+  cursor: pointer;
+}
+
+.YesButton:hover {
+  color: white;
+  background-color: rgb(158, 1, 1);
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.ContentGrid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 0 10vw 5vw 10vw;
+  grid-column-gap: 2em;
+  grid-row-gap: 3em;
+}

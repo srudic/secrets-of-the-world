@@ -1,0 +1,42 @@
+.HeaderContainer {
+  margin: 0 5%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Logged {
+  display: flex;
+  margin-top: 2em;
+  margin-right: 1.5em;
+}
+
+.Logged h2 {
+  color: var(--mainBlue);
+  font-size: 1.2em;
+  margin: 0 1em 0em 0em;
+}
+
+.LoggedName h2 {
+  color: var(--mainPink);
+  margin: 0;
+  padding: 0 0.5em;
+  cursor: pointer;
+}
+
+.NameHover h3 {
+  margin: 0;
+  color: var(--mainBlue);
+  padding: 0.3em 0.5em;
+
+  font-weight: normal;
+  opacity: 1;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.NameHover h3:hover {
+  /* background-color: rgb(195, 233, 255); */
+  background-color: var(--mainPink);
+  color: white;
+}

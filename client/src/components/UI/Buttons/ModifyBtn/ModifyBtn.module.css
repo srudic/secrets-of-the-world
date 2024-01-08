@@ -1,0 +1,16 @@
+.ModifyBtn {
+  align-self: flex-end;
+  margin: 0em 1em 1em 1em;
+  border: 2px solid greenyellow;
+  padding: 0.3em 1.5em;
+  color: greenyellow;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.ModifyBtn:hover {
+  color: white;
+  background-color: greenyellow;
+  cursor: pointer;
+}
